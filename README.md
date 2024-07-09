@@ -80,13 +80,13 @@
         <section id="linkedin">
             <h2>LinkedIn Posts</h2>
             <p>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7213693975625363456" height="860" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>            </p>
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7213693975625363456" height="402" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+            </p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>
-                <!-- Reach me on ronke.daini@gmail.com -->
-            </p>
+            <p>Email: <a href="mailto:ronke.morawo@gmail.com">ronke.morawo@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/ronkedaini/" target="_blank">Ronke Daini</a></p>
         </section>
     </div>
     <footer>
