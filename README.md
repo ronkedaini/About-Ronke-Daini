@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -79,7 +80,7 @@
         <section id="linkedin">
             <h2>LinkedIn Posts</h2>
             <p>
-                <!-- You can add links to your LinkedIn posts here -->
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7213693976602693632" height="402" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
             </p>
         </section>
         <section id="contact">
